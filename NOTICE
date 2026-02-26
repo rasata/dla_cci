@@ -1,0 +1,20 @@
+DLA-CCI: Completeness Confidence Index for Document Layout Analysis
+Copyright 2026 Gabriel Zo-Hasina Rasatavohary / ZONOVA Research
+All rights reserved.
+
+This product includes software developed at
+ZONOVA Research / MatrixAI Programme (https://research.zonova.io).
+
+Licensed under the ZONOVA Research Non-Commercial Research License v1.0.
+Commercial use requires prior written authorization — contact:
+    zo@research.zonova.io
+
+This implementation accompanies the following publication (citation required):
+
+  Rasatavohary, G. Z.-H. (2026). "Towards a Metrology of Exhaustiveness
+  in Document Analysis: A Systemic Framework for Layout Completeness
+  Assessment." ZONOVA Research / MatrixAI Programme.
+  Code: https://github.com/rasata/dla_cci
+
+The Completeness Confidence Index (CCI) framework, Ghost OCR technique,
+and associated methodologies are original contributions of the author(s).

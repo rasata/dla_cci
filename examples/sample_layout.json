@@ -1,0 +1,10 @@
+{
+  "description": "Example layout for demonstration purposes. Replace with actual DLA model output.",
+  "elements": [
+    {"bbox": [72, 50, 540, 90],   "label": "Title"},
+    {"bbox": [72, 100, 540, 130], "label": "Section-header"},
+    {"bbox": [72, 140, 540, 400], "label": "Text"},
+    {"bbox": [72, 420, 540, 460], "label": "Section-header"},
+    {"bbox": [72, 470, 540, 700], "label": "Text"}
+  ]
+}

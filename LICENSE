@@ -1,0 +1,168 @@
+ZONOVA Research — Non-Commercial Research License
+Version 1.0, February 2026
+
+Copyright (c) 2026 Gabriel Zo-Hasina Rasatavohary / ZONOVA Research.
+All rights reserved.
+
+==========================================================================
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined in this document.
+
+   "Licensor" shall mean the copyright owner: Gabriel Zo-Hasina
+   Rasatavohary / ZONOVA Research, or any entity authorized by the
+   copyright owner to grant this License.
+
+   "You" (or "Your") shall mean an individual or Legal Entity exercising
+   permissions granted by this License.
+
+   "Work" shall mean the source code, documentation, data, algorithms,
+   and any associated materials made available under this License.
+
+   "Derivative Works" shall mean any work that is based on or derived
+   from the Work, including modifications, translations, adaptations,
+   and extensions.
+
+   "Commercial Use" shall mean any use primarily intended for or directed
+   toward commercial advantage or monetary compensation. This includes,
+   but is not limited to: (a) incorporating the Work or Derivative Works
+   into a product or service offered for sale or for a fee; (b) using the
+   Work or Derivative Works to provide paid consulting, processing, or
+   analysis services; (c) using the Work or Derivative Works within
+   internal operations of a for-profit entity to generate revenue or
+   reduce costs in a production pipeline.
+
+   "Research Use" shall mean use for the purpose of academic research,
+   scientific experimentation, education, personal study, evaluation,
+   benchmarking, and non-commercial testing. Research Use includes
+   publication of results obtained using the Work, provided proper
+   attribution is given.
+
+   "Paper" shall mean the publication: Rasatavohary, G. Z.-H. (2026).
+   "Towards a Metrology of Exhaustiveness in Document Analysis: A
+   Systemic Framework for Layout Completeness Assessment." ZONOVA
+   Research / MatrixAI Programme.
+
+2. Grant of Rights for Research Use.
+
+   Subject to the terms of this License, the Licensor hereby grants You a
+   worldwide, royalty-free, non-exclusive, non-transferable, revocable
+   license to use, reproduce, modify, and distribute the Work and
+   Derivative Works thereof, solely for Research Use purposes, provided
+   that You comply with all conditions stated herein.
+
+3. Attribution Requirement.
+
+   Any use of the Work, including Research Use, must include clear and
+   prominent attribution to the Licensor. Specifically, You must:
+
+   (a) Retain all copyright notices, this License, and the NOTICE file
+       in all copies or substantial portions of the Work;
+
+   (b) Cite the Paper in any publication, report, thesis, presentation,
+       or other scholarly work that uses, references, or builds upon
+       the Work or Derivative Works. The following citation format is
+       recommended:
+
+       Rasatavohary, G. Z.-H. (2026). "Towards a Metrology of
+       Exhaustiveness in Document Analysis: A Systemic Framework for
+       Layout Completeness Assessment." ZONOVA Research / MatrixAI
+       Programme. Code: https://github.com/rasata/dla_cci
+
+   (c) Clearly indicate any modifications You have made to the Work
+       in Derivative Works.
+
+4. Commercial Use Prohibited Without Authorization.
+
+   You may NOT use the Work or any Derivative Works for Commercial Use
+   without prior written authorization from the Licensor.
+
+   To request a commercial license, contact:
+       zo@research.zonova.io
+
+   The Licensor reserves the right to grant or refuse commercial licenses
+   at its sole discretion and to set terms for such licenses.
+
+5. Patent Rights.
+
+   The Licensor makes no express or implied grant of patent rights under
+   this License. If the Work embodies inventions or methods that are the
+   subject of patent applications or patents held by the Licensor, Your
+   use of the Work under this License does not constitute a license to
+   practice those patents for Commercial Use. A separate patent license
+   must be obtained for any Commercial Use.
+
+6. No Trademark License.
+
+   This License does not grant permission to use the trade names,
+   trademarks, service marks, or product names of the Licensor
+   (including "ZONOVA", "MatrixAI", "CCI", "Ghost OCR" as product
+   names), except as required for reasonable and customary use in
+   describing the origin of the Work and reproducing the content of
+   the NOTICE file.
+
+7. Redistribution.
+
+   You may redistribute the Work or Derivative Works to third parties,
+   provided that:
+
+   (a) Such redistribution is solely for Research Use;
+
+   (b) You include a complete copy of this License with every copy
+       of the Work or Derivative Works that You distribute;
+
+   (c) You do not represent or imply that the Licensor endorses You
+       or Your use of the Work;
+
+   (d) You retain all copyright and attribution notices.
+
+8. Disclaimer of Warranty.
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF
+   ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION,
+   ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR
+   FITNESS FOR A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR
+   DETERMINING THE APPROPRIATENESS OF USING THE WORK AND ASSUME ALL
+   RISKS ASSOCIATED WITH YOUR USE.
+
+9. Limitation of Liability.
+
+   IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING
+   NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE LICENSOR BE LIABLE
+   TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL,
+   INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
+   INABILITY TO USE THE WORK, EVEN IF THE LICENSOR HAS BEEN ADVISED
+   OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. Termination.
+
+    This License is effective until terminated. Your rights under this
+    License will terminate automatically without notice if You fail to
+    comply with any of its terms. In particular, any unauthorized
+    Commercial Use constitutes an immediate and automatic termination
+    of this License. Upon termination, You must cease all use and
+    destroy all copies of the Work in Your possession.
+
+11. Governing Law.
+
+    This License shall be governed by and construed in accordance with
+    the laws of France. Any disputes arising under this License shall
+    be subject to the exclusive jurisdiction of the courts of Paris,
+    France.
+
+==========================================================================
+
+SUMMARY (not legally binding — see full terms above):
+
+  ✓  Research, academic, and educational use — FREE
+  ✓  Non-commercial testing and benchmarking — FREE
+  ✓  Publication of results with proper citation — FREE
+  ✓  Redistribution for research purposes with this license — FREE
+  ✗  Commercial use — REQUIRES WRITTEN AUTHORIZATION
+  ✗  Use without citation of the Paper — NOT PERMITTED
+
+==========================================================================
