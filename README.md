@@ -257,3 +257,8 @@ For commercial licensing inquiries, contact: **zo@research.zonova.io**
 
 - **ZONOVA Research / MatrixAI Programme** — R&D framework for intelligent document processing.
 - **Prof. Emeritus Ioan Roxin** (Université de Franche-Comté) — pre-submission peer review of the paper.
+
+## Citation
+If you use this code or the CCI framework in your research, please cite the following position paper:
+
+**Rasatavohary, G. Z.-H. (2026). Towards a Metrology of Exhaustiveness in Document Analysis: A Systemic Framework for Layout Completeness Assessment. engrXiv. https://engrxiv.org/preprint/view/6568**
